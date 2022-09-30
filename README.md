@@ -1,12 +1,11 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title> Vaish's Photography </title>
     <style>
             body {background: #DCD0FF}
             h1 {color: #FFFFFF}
-            h2 {color: #410179}
-            h3 {color: #5f01b1}
+            h2 {color: #FFFFFF}
+            h3 {color: #410179}
     </style>
   </head>
   <body>
