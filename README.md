@@ -13,9 +13,13 @@
     <p> Here is a collection of some of my favorite photos I've taken! One of my hobbies is nature photography, and I hope to share my love for nature with others through my photography. Each photo has a little background to accompany it.</p>
     
     <h2> August 18, 2017 </h2>
-    <h3> A bench next to the Tennessee River. I took this picture when we went to see the solar eclipse in 2017. </h3>
-![benchundertree](https://user-images.githubusercontent.com/114502838/193384019-04e59763-1e7c-4639-b276-2595955b1ca3.JPG)
-
+    <p> A bench next to the Tennessee River. I took this picture when we went to see the solar eclipse in 2017.</p>
     <img src="https://user-images.githubusercontent.com/114502838/193384019-04e59763-1e7c-4639-b276-2595955b1ca3.JPG" alt="benchundertree" width="400">
 
-    
+    <h2> May 1, 2019 </h2>
+    <p> A pink rose in my front yard. My mom bought it as a birthday present for me, and it bloomed in the spring.</p>
+    <img src="https://user-images.githubusercontent.com/114502838/193392459-6803c536-e4da-4d6d-a2bd-27c3cf7184d0.JPG" alt="pinkrose" width="400">
+
+    <h2> December 9, 2021 </h2>
+    <p> A sunset pictured in a suburban neighborhood.</p>
+    <img src="https://user-images.githubusercontent.com/114502838/193392815-e86fa905-0c34-4bee-8f3f-ce0a6dcda1ec.jpg" alt="neighborhoodsunset" width="400">
