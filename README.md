@@ -16,4 +16,6 @@
     <h3> A bench next to the Tennessee River. I took this picture when we went to see the solar eclipse in 2017. </h3>
 ![benchundertree](https://user-images.githubusercontent.com/114502838/193384019-04e59763-1e7c-4639-b276-2595955b1ca3.JPG)
 
+    <img src="https://user-images.githubusercontent.com/114502838/193384019-04e59763-1e7c-4639-b276-2595955b1ca3.JPG" alt="benchundertree" width="400">
+
     
