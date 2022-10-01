@@ -37,3 +37,10 @@
     <h2> April 17, 2022 </h2>
     <p> The moon glowing in the night sky above the city lights of Pismo Beach. </p>
     <img src="https://user-images.githubusercontent.com/114502838/193395483-249f4ab2-039a-49c0-b3b8-d2bb8273c608.jpg" alt="PismoBeachSunset" width="400">
+
+
+
+
+
+</body>
+</html>
