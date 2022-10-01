@@ -12,7 +12,7 @@
     <h1> Vaish's Photography! </h1>
     <p> Here is a collection of some of my favorite photos I've taken! One of my hobbies is nature photography, and I hope to share my love for nature with others through my photography. Each photo has a little background to accompany it.</p>
     
-    <p> If you are interested in looking at some more nature photography, here is one of my favorite websites for photography: <a href="https://www.pexels.com/search/nature/"></p>
+    <p> If you are interested in looking at some more nature photography, here is one of my favorite websites for photography: <a href="https://www.pexels.com/search/nature/"> Pexels</a> </p>
     
     <h2> August 18, 2017 </h2>
     <p> A bench next to the Tennessee River. I took this picture when my family went to see the solar eclipse in 2017.</p>
