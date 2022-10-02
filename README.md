@@ -4,7 +4,7 @@
     <style>
             body {background: #DCD0FF}
             h1 {color: #FFFFFF}
-            h2 {color: ##FF5733}
+            h2 {color: #EE360E}
     </style>
   </head>
   <body>
