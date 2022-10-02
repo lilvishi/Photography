@@ -5,7 +5,6 @@
             body {background: #DCD0FF}
             h1 {color: #FFFFFF}
             h2 {color: #FFFFFF}
-            h3 {color: #410179}
     </style>
   </head>
   <body>
@@ -37,10 +36,30 @@
     <h2> April 17, 2022 </h2>
     <p> The moon glowing in the night sky above the city lights of Pismo Beach. </p>
     <img src="https://user-images.githubusercontent.com/114502838/193395483-249f4ab2-039a-49c0-b3b8-d2bb8273c608.jpg" alt="PismoBeachSunset" width="400">
-
-
-
-
-
+    
+    <h2> May 29, 2022 </h2>
+    <p> The sunset from Huntington Beach. The ocean waves were shimmering with the beautiful orange color of the sky. </p>
+    <img src="https://user-images.githubusercontent.com/114502838/193432261-867f968d-7800-482f-b7a3-083df08aa38f.jpg" alt="HuntingtonBeachSunset" width="400">
+    
+    <h2> April 18, 2022 </h2>
+    <p> Pismo Beach from atop the white cliffside. The beach was so wide and shallow! It was perfect for seaside strolls. </p>
+    <img src="https://user-images.githubusercontent.com/114502838/193432436-ba590df0-f660-4c43-a706-ea239ccec2af.jpg" alt="PismoBeach" width="400">
+    
+    <h2> April 18, 2022 </h2>
+    <p> When my family was driving along Highway 1, we spotted a huge patch of golden poppies growing, and I took this picture with the Pacific Ocean in the background. </p>
+    <img src="https://user-images.githubusercontent.com/114502838/193432573-8cef24c3-aa4e-4ccb-ac37-552d0f67e17a.jpg" alt="poppies" width="400">
+    
+    <h2> April 21, 2022 </h2>
+    <p> A trio of redwood trees extending high into the sky in Samuel P. Taylor State Park. </p>
+    <img src="https://user-images.githubusercontent.com/114502838/193432724-109ab78d-8053-47c2-a8a9-b58f88739685.jpg" alt="redwoods" width="400">
+    
+    <h2> April 21, 2022 </h2>
+    <p> A small waterfall flowing through a lush green forest. </p>
+    <img src="https://user-images.githubusercontent.com/114502838/193432849-cf242cd1-501b-4e66-bed4-ecf90dcab35e.jpg" alt="forestwaterfall" width="400">
+    
+    <h2> August 13, 2022 </h2> 
+    <p> A beautiful sunset from a beach in Palos Verdes. </p>
+    <img src="https://user-images.githubusercontent.com/114502838/193432926-d735a9b1-d37b-4ad6-ad67-1e639a28e8dc.jpg" alt="PalosVerdesSunset" width="400">
+    
 </body>
 </html>
