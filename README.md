@@ -8,6 +8,11 @@
     </style>
   </head>
   <body>
+       <style>
+            body {background: #DCD0FF}
+            h1 {color: #EE360E}
+            h2 {color: #EE360E}
+    </style>
     <h1> Vaish's Photography! </h1>
     <p> Here is a collection of some of my favorite photos I've taken! One of my hobbies is nature photography, and I hope to share my love for nature with others through my photography. Each photo has a little background to accompany it.</p>
     
