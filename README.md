@@ -3,8 +3,8 @@
     <title> Vaish's Photography </title>
     <style>
             body {background: #DCD0FF}
-            h1 {color: #FFFFFF}
-            h2 {color: #FFFFFF}
+            h1 {color: #FFFFFF;}
+            h2 {color: #FFFFFF;}
     </style>
   </head>
   <body>
