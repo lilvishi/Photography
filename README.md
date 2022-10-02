@@ -30,7 +30,7 @@
     <img src="https://user-images.githubusercontent.com/114502838/193393749-1f3993cf-1d3d-4b24-bbc6-7e9567b461c6.jpg" alt="cumulusclouds" width="400">
     
     <h2> March 2, 2022 </h2>
-    <p> An extraordinary sunset as seen from a parking lot </p>
+    <p> An extraordinary sunset expanding across the sky as seen from a parking lot. </p>
     <img src="https://user-images.githubusercontent.com/114502838/193393910-d70844f5-5810-4061-9da7-35ae89ed5c28.jpg" alt="parkinglotsunset" width="400">
     
     <h2> April 17, 2022 </h2>
@@ -54,11 +54,11 @@
     <img src="https://user-images.githubusercontent.com/114502838/193432724-109ab78d-8053-47c2-a8a9-b58f88739685.jpg" alt="redwoods" width="400">
     
     <h2> April 21, 2022 </h2>
-    <p> A small waterfall flowing through a lush green forest. </p>
+    <p> A small waterfall flowing through a lush green forest. I came across this pretty waterfall while walking along the forest path. </p>
     <img src="https://user-images.githubusercontent.com/114502838/193432849-cf242cd1-501b-4e66-bed4-ecf90dcab35e.jpg" alt="forestwaterfall" width="400">
     
     <h2> August 13, 2022 </h2> 
-    <p> A beautiful sunset from a beach in Palos Verdes. </p>
+    <p> A beautiful sunset from a beach in Palos Verdes. I came here with my friend to enjoy the breeze and the golden glow of the sun as it slowly dipped below the mountains.  </p>
     <img src="https://user-images.githubusercontent.com/114502838/193432926-d735a9b1-d37b-4ad6-ad67-1e639a28e8dc.jpg" alt="PalosVerdesSunset" width="400">
     
 </body>
