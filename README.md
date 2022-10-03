@@ -13,7 +13,7 @@
     
     <p> If you are interested in looking at some more nature photography, here is one of my favorite websites for photography: <a href="https://www.pexels.com/search/nature/"> Pexels</a> </p>
     
-    <h2> August 18, 2017 </h2>
+    <h2 style="{color:#6229A1;}"> August 18, 2017 </h2>
     <p> A bench next to the Tennessee River. I took this picture when my family went to see the solar eclipse in 2017.</p>
     <img src="https://user-images.githubusercontent.com/114502838/193384019-04e59763-1e7c-4639-b276-2595955b1ca3.JPG" alt="benchundertree" width="400">
 
