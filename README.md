@@ -15,7 +15,7 @@
     
     <h2 style="color:#6229A1;"> August 18, 2017 </h2>
     <p> A bench next to the Tennessee River. I took this picture when my family went to see the solar eclipse in 2017.</p>
-    <img src="https://user-images.githubusercontent.com/114502838/193384019-04e59763-1e7c-4639-b276-2595955b1ca3.JPG" alt="benchundertree" width="400">
+    <img src="https://user-images.githubusercontent.com/114502838/193384019-04e59763-1e7c-4639-b276-2595955b1ca3.JPG" alt="benchundertree" width="500">
 
     <h2 style="color:#6229A1;"> May 1, 2019 </h2>
     <p> A pink rose in my front yard. My mom bought it as a birthday present for me, and it bloomed in the spring.</p>
@@ -23,11 +23,11 @@
 
     <h2 style="color:#6229A1;"> December 9, 2021 </h2>
     <p> A sunset pictured in a suburban neighborhood.</p>
-    <img src="https://user-images.githubusercontent.com/114502838/193392815-e86fa905-0c34-4bee-8f3f-ce0a6dcda1ec.jpg" alt="neighborhoodsunset" width="400">
+    <img src="https://user-images.githubusercontent.com/114502838/193392815-e86fa905-0c34-4bee-8f3f-ce0a6dcda1ec.jpg" alt="neighborhoodsunset" width="500">
     
     <h2 style="color:#6229A1;"> February 23, 2022 </h2>
     <p> A bunch of puffy cumulus clouds drifting across the sky. </p>
-    <img src="https://user-images.githubusercontent.com/114502838/193393749-1f3993cf-1d3d-4b24-bbc6-7e9567b461c6.jpg" alt="cumulusclouds" width="400">
+    <img src="https://user-images.githubusercontent.com/114502838/193393749-1f3993cf-1d3d-4b24-bbc6-7e9567b461c6.jpg" alt="cumulusclouds" width="500">
     
     <h2 style="color:#6229A1;"> March 2, 2022 </h2>
     <p> An extraordinary sunset expanding across the sky as seen from a parking lot. </p>
